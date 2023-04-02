@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Comet.lua", true))()
